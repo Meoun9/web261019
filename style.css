@@ -87,8 +87,7 @@ nav a {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://image.tmdb.org/t/p/w1280/여기에_backdrop_path");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg");
     background-size: cover;
     background-position: center;
     min-height: 40vh;
